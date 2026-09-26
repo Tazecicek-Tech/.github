@@ -1,19 +1,19 @@
-## Ne değişti
+## What changed
 
-<!-- Tek paragraf: bu PR neyi teslim ediyor -->
+<!-- One paragraph: what this PR delivers -->
 
-## Neden
+## Why
 
-<!-- İlgili issue / karar kaydı -->
+<!-- Related issue / decision record -->
 
-## Nasıl test edildi
+## How it was tested
 
-- [ ] Yerelde çalıştırıldı
-- [ ] Testler geçti
-- [ ] Gerekirse staging'de denendi
+- [ ] Ran locally
+- [ ] Tests pass
+- [ ] Tried on staging (if needed)
 
-## Kontrol listesi
+## Checklist
 
-- [ ] Secret, parola veya token eklenmedi
-- [ ] Uygulamanın dokümantasyon sayfası güncellendi (gerekiyorsa)
-- [ ] Geriye dönük uyumsuz değişiklik yok / varsa açıklandı
+- [ ] No secrets, passwords or tokens added
+- [ ] The app's documentation page is updated (if needed)
+- [ ] No breaking change / breaking change is described

@@ -1,3 +1,3 @@
 # .github
 
-Organizasyondaki repolar için varsayılan PR ve issue şablonları. Kendi şablonu olmayan her repo bunları kullanır.
+Default pull request and issue templates for the organization. Any repository without its own templates uses these.
